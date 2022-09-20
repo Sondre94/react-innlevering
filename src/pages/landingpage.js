@@ -1,7 +1,7 @@
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import NavBar from "./components/navbar";
 import Counter from "./landingpage/counter";
-import { useContext, useState } from "react";
+import { useContext } from "react";
 import { Context } from "../Context/Context";
 import About from "./landingpage/about";
 
