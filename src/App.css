@@ -22,9 +22,9 @@ li:hover {
 }
 
 button {
-  color: white;
-  background: none;
-  border: 1px solid white;
+  color: rgb(0, 0, 0);
+  background: lightblue;
+  border: 1px solid black;
   border-radius: 2em;
   font-size: 30px;
   margin: 20px;
